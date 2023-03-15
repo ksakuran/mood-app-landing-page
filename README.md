@@ -2,4 +2,4 @@
 
 Used to practice gradient animations with HTML and CSS
 
-![landing page]() 
+![landing page](https://github.com/ksakuran/mood-app-landing-page/blob/main/public/landing-page.gif?raw=true) 
